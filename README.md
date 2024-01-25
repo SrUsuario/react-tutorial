@@ -1,2 +1,2 @@
 # react-tutorial
-Archivos del tutorial sobre React
+Proyectos con ayuda de un tutorial sobre React
